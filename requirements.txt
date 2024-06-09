@@ -4,6 +4,7 @@ modelscope
 bitsandbytes>=0.40.0.post4
 datasets>=2.16.0
 einops
+gradio==3.48
 lagent>=0.1.2
 mmengine>=0.10.3
 openpyxl
